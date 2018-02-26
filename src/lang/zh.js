@@ -2,14 +2,10 @@ export default {
   route: {
     dashboard: '首页',
     introduction: '简述',
-    documentation: '文档',
     permission: '权限测试页',
     icons: '图标',
     components: '组件',
     componentIndex: '介绍',
-    tinymce: '富文本编辑器',
-    markdown: 'Markdown',
-    jsonEditor: 'JSON编辑器',
     dndList: '列表拖拽',
     splitPane: 'Splitpane',
     avatarUpload: '头像上传',
@@ -44,8 +40,6 @@ export default {
     uploadExcel: 'Upload Excel',
     zip: 'Zip',
     exportZip: 'Export Zip',
-    theme: '换肤',
-    clipboardDemo: 'Clipboard',
     i18n: '国际化'
   },
   navbar: {

@@ -2,14 +2,10 @@ export default {
   route: {
     dashboard: 'Dashboard',
     introduction: 'Introduction',
-    documentation: 'Documentation',
     permission: 'Permission',
     icons: 'Icons',
     components: 'Components',
     componentIndex: 'Introduction',
-    tinymce: 'Tinymce',
-    markdown: 'Markdown',
-    jsonEditor: 'JSON Editor',
     dndList: 'Dnd List',
     splitPane: 'SplitPane',
     avatarUpload: 'Avatar Upload',
@@ -44,8 +40,6 @@ export default {
     uploadExcel: 'Upload Excel',
     zip: 'Zip',
     exportZip: 'Export Zip',
-    theme: 'Theme',
-    clipboardDemo: 'Clipboard',
     i18n: 'I18n'
   },
   navbar: {
